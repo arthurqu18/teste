@@ -1,4 +1,4 @@
-    #include "testedois.hpp"
+    #include "testedois.cpp"
     #include <iostream>
 
     using namespace std;
